@@ -20,17 +20,25 @@ This project aims to create a smart digital platform that helps users locate nea
 We propose a Multi-Platform Smart Navigation System consisting of:
 
 1. Mobile Application
+
 3D interactive station maps
+
 Step-by-step indoor navigation
+
 QR-based location detection
+
 Multi-language support
 
 2. Digital Kiosks
+
 Touchscreen navigation terminals
+
 Located at station entrances and platforms
+
 Quick search for facilities
 
 4. Voice-Guided Navigation
+   
 Designed for visually impaired passengers
 
 Audio directions with haptic feedback
