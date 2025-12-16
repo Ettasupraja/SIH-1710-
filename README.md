@@ -32,17 +32,25 @@ Quick search for facilities
 
 4. Voice-Guided Navigation
 Designed for visually impaired passengers
+
 Audio directions with haptic feedback
+
 Compatible with screen readers
 
 4. Real-Time Updates
+   
 Dynamic platform changes
+
 Temporary facility closures
+
 Emergency route guidance
 
-5. Integration
+6. Integration
+   
 Integration with IRCTC & railway apps
+
 Train schedules and platform data
+
 User ticket-based navigation suggestions
 
 ### System Architecture Diagram
@@ -55,14 +63,22 @@ User ticket-based navigation suggestions
 
 ### Key Users
 Daily commuters
+
 Long-distance travelers
+
 Senior citizens
+
 Persons with disabilities
+
 Railway staff
 
 ### Technology Stack
 Frontend:React
+
 Backend:Node.js
+
 Database:MongoDB
+
 Deployment:AWS
+
 Voice Assistance: Web Sppech API
