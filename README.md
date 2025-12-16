@@ -21,45 +21,45 @@ We propose a Multi-Platform Smart Navigation System consisting of:
 
 1. Mobile Application
 
-3D interactive station maps
+ 3D interactive station maps
 
-Step-by-step indoor navigation
+ Step-by-step indoor navigation
 
-QR-based location detection
+ QR-based location detection
 
-Multi-language support
+ Multi-language support
 
 2. Digital Kiosks
 
-Touchscreen navigation terminals
+  Touchscreen navigation terminals
 
-Located at station entrances and platforms
+  Located at station entrances and platforms
 
-Quick search for facilities
+  Quick search for facilities
 
 4. Voice-Guided Navigation
    
-Designed for visually impaired passengers
+  Designed for visually impaired passengers
 
-Audio directions with haptic feedback
+  Audio directions with haptic feedback
 
-Compatible with screen readers
+  Compatible with screen readers
 
 4. Real-Time Updates
    
-Dynamic platform changes
+ Dynamic platform changes
 
-Temporary facility closures
+ Temporary facility closures
 
-Emergency route guidance
+ Emergency route guidance
 
 6. Integration
    
-Integration with IRCTC & railway apps
+ Integration with IRCTC & railway apps
 
-Train schedules and platform data
+ Train schedules and platform data
 
-User ticket-based navigation suggestions
+ User ticket-based navigation suggestions
 
 ### System Architecture Diagram
 
