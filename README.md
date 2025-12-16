@@ -46,9 +46,11 @@ Train schedules and platform data
 User ticket-based navigation suggestions
 
 ### System Architecture Diagram
+
 ![WhatsApp Image 2025-12-16 at 12 35 26 PM](https://github.com/user-attachments/assets/5e01bd3a-5140-4001-9100-78d0fd997a39)
 
 ### Use Case Diagram
+
 ![WhatsApp Image 2025-12-16 at 12 35 59 PM](https://github.com/user-attachments/assets/5fceb695-4d99-4fcd-b776-577ba2ab68e6)
 
 ### Key Users
@@ -57,6 +59,7 @@ Long-distance travelers
 Senior citizens
 Persons with disabilities
 Railway staff
+
 ### Technology Stack
 Frontend:React
 Backend:Node.js
